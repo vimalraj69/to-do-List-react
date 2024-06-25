@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "id": "2",
+      "checked": false,
+      "item": "Gym"
+    },
+    {
+      "id": "4",
+      "checked": true,
+      "item": "new data"
+    },
+    {
+      "id": "5",
+      "checked": true,
+      "item": "new data 2"
+    },
+    {
+      "id": "51",
+      "checked": true,
+      "item": "purchase footwear"
+    }
+  ]
+}
